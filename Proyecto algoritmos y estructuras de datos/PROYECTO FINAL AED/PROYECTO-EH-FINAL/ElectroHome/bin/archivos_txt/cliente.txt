@@ -1,0 +1,4 @@
+1002 | Joseph | Mendoza | Los nogales | 934143897 | 60758786
+1003 | Alex | Herbas | Los Cereales | 987897654 | 60984656
+1004 | Abigail | Romero | De las Gabiotas | 987654321 | 98567483
+1005 | Jetli | del monte | Av su casa | 987123456 | 56657837
